@@ -1,0 +1,32 @@
+_repo: Better-Homes-in-America--Plan-Book-for-Demonstration-Week-October-9-to-14-1922_7992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meloney, Marie Mattingly
+    aliases:
+    - Meloney, Mrs. William B.
+    - Meloney, Mrs. W. B.
+    birthdate: 1878
+    deathdate: 1943
+    gutenberg_agent_id: '2620'
+    url: http://www.gutenberg.org/2009/agents/2620
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Mattingly_Meloney
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housing -- United States'
+- !lcsh 'Cities and towns -- United States'
+- !lcc 'HD'
+- !lcsh 'Home ownership -- United States'
+- !lcsh 'United States -- Social conditions'
+- GITenberg
+title: 'Better Homes in America: Plan Book for Demonstration Week October 9 to 14,
+  1922'
+url: http://www.gutenberg.org/ebooks/7992
